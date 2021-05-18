@@ -22,7 +22,7 @@ class TreeNode {
   }
 }
 
-class Solution {
+public class Solution {
 
   int x;
   int y;
